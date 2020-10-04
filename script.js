@@ -1,9 +1,10 @@
 //Initialize Firebase
   var config = {
-    apiKey: "AIzaSyDO5J-qwbLOzK05hMZA8q6VpE0MqGHM2nU",
-    authDomain: "filetest-d7b65.firebaseapp.com",
-    databaseURL: "https://filetest-d7b65.firebaseio.com",
-    storageBucket: "filetest-d7b65.appspot.com",
+    apiKey: "AIzaSyA9lWEo-9FgiQ90ExdsvHSTB1ehE6dxjhY",
+    authDomain: "image-upload-3e69d.firebaseapp.com",
+    databaseURL: "https://image-upload-3e69d.firebaseio.com",
+    projectId: "image-upload-3e69d",
+    storageBucket: "image-upload-3e69d.appspot.com",
   };
   firebase.initializeApp(config);
 
